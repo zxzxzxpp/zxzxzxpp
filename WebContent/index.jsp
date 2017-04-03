@@ -40,6 +40,7 @@
 			 (ArithmeticOperatorController, SimpleMappingExceptionResolver 예제)</li>
 			<li><a href="<c:url value='/guestmessage/xml.do' />">/guestmessage/xml.do</a>
 			 (GuestMessageController, @ResponseBody 예제)</li>
+		
 		</ul>
 	    </body>
 	</html>
